@@ -1,13 +1,13 @@
 This is my Github collection.
 
 
-I've commited
+I've committed:
 
 
--All notebooks of the lesssons including my comments and extra actions in the scripts
+-All notebooks of the lesssons including my comments and extra actions in the scripts;
 
 
--As well as my portfolio contributions.
+-My portfolio contributions.
 
 
 Max ter Steege
