@@ -1,13 +1,39 @@
 Deep Learning Semester - Portfolio 
 
+Author: Max ter Steege
+Student number: 
+Course: Deep Learning
+Program: Master of Science in Applied Data Science 
+University: HAN University of Applied Sciences 
+Year: 2026
 
-I've committed:
+GENERAL
+You can find my full combined portfolio document in the folder 'Portfolio - Max ter Steege - Deep Learning - COMBINED
+
+The seperate portfolio assignments have been uploaded per folder in the seperate folder below, called 'Portfolio - Max ter Steege - Deep Learning'
+
+1. Portfolio overview
+This repository contains all my assignments completed during the Deep Learning Course.
+
+2. My contributions
 
 
--All notebooks of the lessons including my comments and extra actions in the scripts;
+
+3. My approach
 
 
--My portfolio contributions.
 
 
-Max ter Steege
+4. Performed experiments
+
+
+
+
+5. Used datasets
+
+
+
+
+6. Results overview
+
+
