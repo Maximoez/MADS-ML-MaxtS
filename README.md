@@ -1,4 +1,4 @@
-This is my Github collection.
+Deep Learning Semester - Portfolio 
 
 
 I've committed:
