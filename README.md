@@ -2,14 +2,26 @@ Deep Learning Semester - Portfolio
 
 
 Author: Max ter Steege
+
+
 Student number: 
+
+
 Course: Deep Learning
+
+
 Program: Master of Science in Applied Data Science 
+
+
 University: HAN University of Applied Sciences 
+
+
 Year: 2026
 
 
 GENERAL
+
+
 You can find my full combined portfolio document in the folder 'Portfolio - Max ter Steege - Deep Learning - COMBINED
 
 
