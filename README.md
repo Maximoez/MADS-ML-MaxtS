@@ -33,6 +33,25 @@ This repository contains all my assignments completed during the Deep Learning C
 
 
 ## 2. Special note regarding accessing the interactive Street Language Generator
+How to access:
+
+Resume my VM UOS3MterSteege
+
+
+Enter passphrase 'dlmax'
+
+
+Typing 'docker ps' shows the current running projects, you should find 'straattaal-project' with my SSHkey
+
+
+Run this docker restart 29a3a5e77945
+
+
+Then go to http://145.38.205.124/
+
+
+Now you can generate words with Zeeuws dialect!
+
 
 
 
